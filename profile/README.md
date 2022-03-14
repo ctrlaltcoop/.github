@@ -13,7 +13,7 @@ We provide a range of services from software and app development📱, enabling o
 
 # 👓 Contact
 
-Website: https://ctrl.alt.coop/
+Website: [ctrl.alt.coop](https://ctrl.alt.coop/)
 
 Franz-Mehring-Platz 1\
 10243 Berlin
@@ -21,4 +21,4 @@ Franz-Mehring-Platz 1\
 Phone: +49 30 814 584 27 - 0\
 Email: kontakt@ctrl.alt.coop
 
-LinkedIn: https://www.linkedin.com/company/control-alt-coop-eg-i-g/
+LinkedIn: [control.alt.coop eG](https://www.linkedin.com/company/control-alt-coop-eg-i-g/)
