@@ -43,5 +43,5 @@ We provide a range of services from software and app development📱, enabling o
 Franz-Mehring-Platz 1\
 10243 Berlin
 
-📞 Phone: +49 30 814 584 27 - 0\
+📞 Phone: <a href="tel:+4930814584270"> +49 30 814 584 27 - 0</a>\
 📧 Email: kontakt@ctrl.alt.coop
