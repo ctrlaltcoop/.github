@@ -3,6 +3,7 @@
 <a href="mailto:kontakt@ctrl.alt.coop"><img src="https://img.shields.io/badge/@Email-%230A0A1A.svg?&style=for-the-badge&logo=world&logoColor=white&color=13ef13" height=25></a>
 <a href="https://de.linkedin.com/company/control-alt-coop-eg-i-g?trk=public_profile_topcard-current-company"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <a href="https://twitter.com/ctrlaltcoop"><img src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2" height=25></a>
+<a href="https://geno.social/@ctrlaltcoop"><img src="https://img.shields.io/badge/mastodon-%230077B5.svg?&style=for-the-badge&logo=mastodon&logoColor=white&color=595aff" height=25></a>
 
 # Hey, this is us 👋
 
