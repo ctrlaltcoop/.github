@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/82034619/158221988-b29d6751-013a-4700-b212-87b741f8b4bb.png)
+<a href="https://ctrl.alt.coop"><img src="https://github.com/user-attachments/assets/7a4a20fc-369d-4a2f-af0e-3cd47202d86a"></a>
 <a href="https://ctrl.alt.coop"><img src="https://img.shields.io/badge/website-%230A0A1A.svg?&style=for-the-badge&logo=world&logoColor=white&color=eb00ff" height=25></a>
 <a href="mailto:kontakt@ctrl.alt.coop"><img src="https://img.shields.io/badge/@Email-%230A0A1A.svg?&style=for-the-badge&logo=world&logoColor=white&color=13ef13" height=25></a>
 <a href="https://de.linkedin.com/company/control-alt-coop-eg-i-g?trk=public_profile_topcard-current-company"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
